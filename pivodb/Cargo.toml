@@ -1,0 +1,6 @@
+[package]
+name = "pivodb"
+version = "0.0.1-SNAPSHOT"
+edition = "2021"
+
+[dependencies]
